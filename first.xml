@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+    <products>
+        <item>
+            <itemnumber>8080</itemnumber>
+            <cost>76.20</cost>
+    
+            <itemnumber>8083</itemnumber>
+            <cost>75.20</cost>
+       
+            <itemnumber>8081</itemnumber>
+            <cost>77.20</cost>
+        </item>
+    </products>
